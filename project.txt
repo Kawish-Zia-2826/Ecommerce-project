@@ -1,3 +1,5 @@
 cretate npm create vite@latest
 npm i
 install tailwind
+
+D=> cursor pointer small hidden w-5
